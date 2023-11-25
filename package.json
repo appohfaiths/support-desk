@@ -1,0 +1,12 @@
+{
+  "name": "support-desk",
+  "version": "1.0.0",
+  "description": "Support Desk app using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KodjoCode",
+  "license": "MIT"
+}
