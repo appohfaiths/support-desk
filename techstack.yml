@@ -2,7 +2,7 @@ repo_name: appohfaiths/support-desk
 report_id: 77b66756cb49ad55cb5b8af76dd9f624
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T13:39:55+00:00'
+timestamp: '2024-02-29T19:34:52+00:00'
 requested_by: appohfaiths
 provider: github
 branch: main
@@ -136,7 +136,7 @@ tools:
   detection_source_url: https://github.com/appohfaiths/support-desk
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.1.0
   license: MIT
